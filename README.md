@@ -6,7 +6,7 @@ Meal Pepper is an end to end Rails app where users can sign up/log in and search
 
 Users have the option to email a copy of their shopping list to themselves, which is a list of all the ingredients from each recipe saved to their weekly meal plans.
 
-## 📌Features
+## 📌 Features
 
 + Users can sign up, log in, and log out
 + User auth handled with bcrypt and sessions
@@ -17,7 +17,7 @@ Users have the option to email a copy of their shopping list to themselves, whic
 + Users can view a grocery list, which is all the ingredients from each of their saved recipes. We implemented ActionMailer to allow the user to email themselves a copy of the grocery list.
 + Employs Rails validations and nested routes
 
-## 🛠Built With
+## 🛠 Built With
 
 + Ruby on Rails
 + Sqlite
@@ -25,14 +25,14 @@ Users have the option to email a copy of their shopping list to themselves, whic
 + ActionMailer
 + Semantic UI CSS
 
-## 💻Supported Versions
+## 💻 Supported Versions
 
 + Ruby 2.6.1
 + Rails 6.0.0
 + SQLite3 1.4
 + bcrypt 3.1.7
 
-## 📷Preview Images
+## 📷 Preview Images
 
 The recipes index page where users can filter by meal type or seach by key word
 
