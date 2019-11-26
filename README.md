@@ -1,4 +1,4 @@
-# Meal Pepper
+# 🌶 Meal Pepper 🌶
 
 Flatiron Module 2 Final Project developed by [Amy Resnik](https://github.com/aresnik11) and [Tracie Masek](https://github.com/traciemasek)
 
